@@ -1,0 +1,38 @@
+body
+{
+    background-color: #454545;
+}
+
+h1
+{
+    font-family: "Georgia", serif;
+    color: #EEEEEE
+}
+
+p
+{
+    font-family: "Georgia", serif;
+    color: #EEEEEE
+}
+
+textarea
+{
+    font-family: "Georgia", serif;
+}
+
+button
+{
+    font-family: "Georgia", serif;
+}
+
+h3
+{
+    font-family: "Georgia", serif;
+    font-weight: normal;
+    color: #AADDAA;
+}
+
+li
+{
+    color: #EEEEEE
+}
